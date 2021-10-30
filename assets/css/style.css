@@ -331,7 +331,7 @@ ul.list-check li::before {
 
 
 #home {
-	background: url(../images/home-21.jpg) no-repeat center center;
+	background: url(../images/mobileBG.png) no-repeat center center;
 	-webkit-background-attachment: fixed;
     background-attachment: fixed;
 	background-color: #222;
@@ -1666,7 +1666,7 @@ Icon for all respective meta
 /* === Home Page Two === */
 
 #homeTwo {
-    background: url(../images/home-2.jpg) no-repeat center center;
+    background: url(../images/) no-repeat center center;
     background-color: #222;
     background-size: cover;
     padding: 0;
